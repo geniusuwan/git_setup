@@ -10,7 +10,7 @@ git init # make local repository
 
 git status # figure git status
 
-gid add . # add all files
+git add . # add all files
 
 git commit -m "message" # make commit message
 
